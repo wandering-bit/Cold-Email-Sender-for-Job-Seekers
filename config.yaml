@@ -1,0 +1,45 @@
+#credentials(do not share publicly)
+email: "abcd@gmail.com"
+password: "password"
+
+##file to be attached with email
+attachement: "Resume.pdf"
+
+##name of the attachement on email
+attachname: "Resume.pdf"
+
+##subject of the email
+subject: "Job Application"
+
+##body of the email
+body: "
+Dear Hiring Manager,\n
+\n
+I hope this message finds you well.\n
+My name is [Your Name], and I recently completed my B.Tech in Computer Science at [Your University].\n
+I am actively seeking a full-time role in Software Development to contribute my abilities and continue growing in the field.\n
+\n
+Through my education, I have honed my problem-solving abilities and developed a strong foundation in software engineering principles.\n
+I am passionate about tackling complex challenges and contributing to innovative solutions in a collaborative environment.\n
+\n
+I am confident that my dedication, adaptability, and enthusiasm for learning would allow me to make a meaningful contribution to your team.\n
+I would welcome the opportunity to discuss how my background aligns with your organization’s needs.\n
+\n
+I have attached my resume for your consideration.\n
+Thank you for your time, and I look forward to the possibility of contributing to your team.\n
+\n
+Best regards,\n
+[Your Name]\n
+Email: [Your Email Address]\n
+Phone: [Your Phone Number]\n
+GitHub: https://github.com/yourusername
+"
+#email addresses of receivers
+to: [
+  "zxcv@gmail.com",
+  "asdf@gmail.com",
+  "qwer@gmail.com"
+]
+
+
+
